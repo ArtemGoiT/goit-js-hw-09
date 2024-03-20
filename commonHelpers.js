@@ -3,5 +3,5 @@ import"./assets/modulepreload-polyfill-3cfb730f.js";import{S as i}from"./assets/
             <img class="gallery-image" src="${o}" alt="${a}" />
         </a>
         </li >`).join(`
-`);e.insertAdjacentHTML("beforeend",n);new i(".gallery a",{captionsData:"alt",captionsDelay:250});
+`);e.insertAdjacentHTML("beforeend",n);new i(".gallery a",{captionData:"alt",captionDelay:250});
 //# sourceMappingURL=commonHelpers.js.map
